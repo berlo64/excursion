@@ -19,11 +19,11 @@ h2 {
   font-size: 21px;
 }
 
-#trademark {
+footer {
   text-align: right;
 }
 
-#functionalities, #trademark {
+#functionalities, footer {
   color: gray;
 }
 
